@@ -1,3 +1,3 @@
 <? php 
-  include_once(boot.html)
+  include_once("boot.html");
 ?>
