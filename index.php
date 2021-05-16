@@ -16,7 +16,7 @@
 <body data-spy="scroll" data-target="#main-nav" id="home">
   <nav class="navbar navbar-expand-sm bg-dark navbar-dark fixed-top" id="main-nav">
     <div class="container">
-      <a href="index.html" class="navbar-brand">LoopLAB</a>
+      <a href="index.html" class="navbar-brand">Bootstrap-theme-rex</a>
       <button class="navbar-toggler" data-toggle="collapse" data-target="#navbarCollapse">
         <span class="navbar-toggler-icon"></span>
       </button>
@@ -251,7 +251,7 @@
     <div class="container">
       <div class="row">
         <div class="col text-center py-4">
-          <h3>LoopLAB</h3>
+          <h3>Bootstrap-theme-rex</h3>
           <p>Copyright &copy;
             <span id="year"></span>
           </p>
